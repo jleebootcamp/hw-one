@@ -1,3 +1,5 @@
+/*Universally applied*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/*header*/
 
 header {
     padding: 20px;
@@ -41,6 +45,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*text*/
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +56,8 @@ p {
     font-size: 16px;
 }
 
+
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +66,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*floating specs*/
 
 .float-left {
     float: left;
@@ -69,11 +79,15 @@ p {
     margin-left: 25px;
 }
 
+/*main*/
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/*"Benefits" section*/
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +148,8 @@ main {
     max-width: 150px;
 }
 
+/*Services section*/
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,6 +203,8 @@ main {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*footer*/
 
 footer {
     padding: 30px;
