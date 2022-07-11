@@ -1,5 +1,7 @@
 # First challenge project. "01 HTML, CSS, and Git: Code Refactor"
 
+Exercise to refactor and enhance accessibility.
+
 Deployed to the following URL
 https://jleebootcamp.github.io/hw-one/#search-engine-optimization
 
